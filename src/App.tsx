@@ -16,7 +16,7 @@ function App() {
     };
 
     return (
-        <div className="w-screen h-screen bg-gradient-to-r from-cyan-500 to-blue-500  ">
+        <div className="w-screen h-screen bg-gradient-to-r from-cyan-500 to-blue-500 pt-12  ">
             <div className="max-w-xl p-2 mx-auto bg-purple-300 rounded ">
                 <h1 className="text-center font-black text-4xl mb-4">
                     TODO LIST
